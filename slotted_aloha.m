@@ -1,5 +1,4 @@
 %Name: Tinhinene AIT HAMOUDA
-%Personal Number: 920612-T403
 %Implementation of slotted ALOHA
 %Use s_aloha_test to test slotted_aloha with different values of lambda, q_r
 function out=slotted_aloha(lambda,q_r,m)
